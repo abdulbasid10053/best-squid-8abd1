@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Added Latex Support"
+title: PIE IKI PIE
 summary: Writing Equations using Latex
 author: xplor4r
-date: '2020-10-24 10:35:23 +0530'
+date: 2020-10-24 10:35:23 +0530
 category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+thumbnail: "/assets/img/posts/code.jpg"
+keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll,
+  devlopr-jekyll tutorial,best jekyll themes
 usemathjax: true
-permalink: /blog/added-latex-equations-support/
----
+permalink: "/blog/added-latex-equations-support/"
 
+---
 ## You can now use LaTex to write equations :
 
 In the frontmatter of the article add this :
