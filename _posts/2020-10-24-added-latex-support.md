@@ -24,6 +24,8 @@ For Example :
 
 * use this `$$E=mc^2$$`
 
+![](/uploads/ss.PNG)
+
 You should be able to see it in your post as: $$E=mc^2$$
 
 use `$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$` to write :
